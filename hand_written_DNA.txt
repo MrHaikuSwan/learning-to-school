@@ -1,0 +1,14 @@
+{
+    'cohesion': 0.05,
+    'separation': 0.01,
+    'separation_threshold': 50,
+    'alignment': 0.05,
+    'fear': 0,
+}
+
+self.data = {
+    'cohesion': 0.05,
+    'separation': 0.01,
+    'alignment': 0.05,
+    'fear': 1,
+}

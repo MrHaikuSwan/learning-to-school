@@ -1,0 +1,4 @@
+# Exclude generations CSV directories
+generation*/
+
+__pycache__/

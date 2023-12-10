@@ -1,0 +1,10 @@
+Experiment 1:
+- Complete failure
+- The fish cunningly exploited the predator's weaknesses
+    - Best fish after 15 generations (cohesion, separation, alignment, fear):
+        -0.2811443860160044,0.1898170757667651,-0.058644418192723376,-1.0577028509009756,3000
+    - They learned to swim away from each other (negative cohesion and alignment)
+    - They learned to swim **towards** the predators (negative fear?!?!)
+- The predator was too clumsy, so the fish learned to face it 1v1
+- The predator has a hard time tracking down individual fish using this strategy 
+- Let's make the predator more agile...
