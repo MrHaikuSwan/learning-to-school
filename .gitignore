@@ -1,4 +1,5 @@
 # Exclude generations CSV directories
 generation*/
+*.zip
 
 __pycache__/
